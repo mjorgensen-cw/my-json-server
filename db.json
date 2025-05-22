@@ -2,15 +2,15 @@
     "calendar": [
         {
             "id": 1,
-            "start-datetime": "2025-06-07 14:00:00",
-            "end-datetime": "2025-06-07 14:30:00",
+            "start-datetime": "2025-06-07T14:00:00",
+            "end-datetime": "2025-06-07T14:30:00",
             "description": "Meeting to discuss TPS Report procedures.",
             "title": "Staff Meeting"
         },
         {
             "id": 2,
-            "start-datetime": "2025-06-07 11:00:00",
-            "end-datetime": "2025-06-07 11:15:00",
+            "start-datetime": "2025-06-07T11:00:00",
+            "end-datetime": "2025-06-07T11:15:00",
             "description": "Client XYZ Debriefing to decide next steps.",
             "title": "Client XYZ Debrief"
         }
